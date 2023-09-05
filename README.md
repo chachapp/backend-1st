@@ -61,11 +61,5 @@ CRUD 게시판.
 ## 💻 ERD
 <img width="500" alt="스크린샷 2023-08-24 오전 5 32 07" src="https://github.com/BECommerce1/backend-1st/assets/86288994/d23ac871-734b-4fbf-91c4-aed894142d80">
 
-<br>
 
-## 🌈 API
-#### 회원API - <a href="" >상세</a>
-#### 게시글API - <a href="" >상세</a>
-#### 댓글API - <a href="" >상세</a>
-#### 좋아요API - <a href="" >상세</a>
 
